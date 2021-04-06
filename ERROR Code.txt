@@ -1,0 +1,49 @@
+//------ERROR CODE EXPLAME-----
+CODE	MEANING
+0***	Unknow ERROR
+*0**	Unknow ERROR
+**0*	Unknow ERROR
+***0	Unknow ERROR
+1***	User Page ERROR
+2***	Request ERROR
+21**	Page Request ERROR
+211*	Request Method ERROR
+212*	Parameter error
+3***	Search ERROR
+4***	Administrator Login/Logout ERROR
+41**	Server ERROR
+411*	Function ERROR
+4111	Parameter ERROR
+412*	File ERROR
+4121	Can't be read
+4122	Can't be written
+4123	Can't be created
+4124	Directory not found
+4125	File not found
+42**	Server Value ERROR
+421*	Globel Value ERROR
+4211	Value don't exist
+4212	Value is empty
+4213	Value format isn't right
+422*	POST Value ERROR
+4221	Value don't exist
+4222	Value is empty
+4223	Value format isn't right
+423*	GET Value ERROR
+42F*	Other Value ERROR	
+43**	User ERROR
+431*	Input Value ERROR
+4311	Wrong Password
+4312	UID not exist
+432*	Input Format ERROR
+5***	Administrator Page ERROR
+6***	Administrator Profile ERROR
+7***	Administrator Request Manager ERROR
+8***	Administrator Server Data Manager ERROR
+9***	Administrator Manager ERROR
+A***	Undefined
+B***	Undefined
+C***	Undefined
+D***	Undefined
+E***	Undefined
+F***	Undefined
